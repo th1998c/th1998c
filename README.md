@@ -17,5 +17,5 @@
 <img aling="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div></br>
 
-### Apaixonado por tecnologia: 👇
+### Apaixonado por tecnologia❤️
 <img aling="center" width="480" alt="img" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
