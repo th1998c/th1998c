@@ -1,5 +1,5 @@
 ### Olá, eu sou o Thiago Carneiro 😀
-### Sou formado Sistemas de informação e atuo desenvolvedor backend na Flexpag!
+### Sou formado em Sistemas de informação e atuo desenvolvedor backend na Flexpag!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-carneiro-82b466138/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thcs98/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581992780418&text=Ol%C3%A1%2C%20vim%20pelo%20GitHub!)
